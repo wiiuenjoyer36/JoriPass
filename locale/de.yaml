@@ -1,0 +1,40 @@
+str_loading: "Lade    "
+str_libcurl_error: "libCURL-Fehler (%d): %s"
+str_libcurl_date_and_time: 'Stelle sicher, dass Systemzeit und -datum richtig eingestellt
+  sind!'
+str_httpstatus_error: 'HTTP-Statuscode %d'
+str_3ds_error: '3DS-Fehlercode %08lx'
+str_at_home: 'Du bist zu Hause.'
+str_goto_train_station: 'Gehe zum Bahnhof'
+str_at_train_station: 'Du bist am Bahnhof.'
+str_goto_plaza: 'Gehe zum Plaza'
+str_at_plaza: 'Du bist am Plaza.'
+str_goto_mall: 'Gehe zum Einkaufszentrum'
+str_at_mall: 'Du bist im Einkaufszentrum.'
+str_exit: 'Verlassen'
+str_settings: 'Einstellungen'
+str_download_data: 'Persönliche Daten herunterladen'
+str_delete_data: 'Persönliche Daten löschen'
+str_back: 'Zurück'
+str_language: Deutsch
+str_system_language: Systemsprache
+str_language_pick: 'Sprache:'
+str_goto_beach: Gehe zum Strand
+str_at_beach: Du bist am Strand.
+str_goto_arcade: Gehe zur Spielhalle
+str_at_arcade: Du bist in der Spielhalle.
+str_at_catcafe: Du bist im Katzencafé.
+str_no_location_twice: Du kannst nicht zweimal hintereinander zum selben Ort gehen!
+str_goto_catcafe: Gehe zum Katzencafé
+str_report_user_hint: Melde "%s"
+str_cancel: Abbrechen
+str_submit: Absenden
+str_report_user: Einen Benutzer melden
+str_back_alley: Seitengasse
+str_back_alley_message: Lass uns ein paar Begegnungen holen
+str_back_alley_pay: Kaufe eine Begegnung {playcoin}%d
+str_toggle_titles: Spiele Ein-/Ausschalten
+str_toggle_titles_message: Drücke {a_button}, um den Austausch von Begegnungen ein-/auszuschalten.
+str_toggle_titles_on: (AN)
+str_toggle_titles_off: (AUS)
+str_check_inboxes: Eingänge prüfen

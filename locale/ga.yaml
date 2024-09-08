@@ -1,0 +1,35 @@
+str_loading: "Ag lodáil    "
+str_libcurl_error: "Earraid libCURL (%d): %s"
+str_libcurl_date_and_time: 'Déan cinnte go bhfuil dáta agus am do chórais socraithe
+  i gceart!'
+str_httpstatus_error: 'Cód Stádais HTTP %d'
+str_3ds_error: 'Cód earráide 3DS %08lx'
+str_at_home: 'Tá tú sa bhaile.'
+str_goto_train_station: 'Téigh go dtí an Stáisiún Traenach'
+str_at_train_station: 'Tá tú ag an Stáisiún Traenach.'
+str_goto_plaza: 'Téigh go dtí an Plás'
+str_at_plaza: 'Tá tú ag an bPlás.'
+str_goto_mall: 'Téigh go dtí an Ionad Siopadóireachta'
+str_at_mall: 'Tá tú ag an Ionad Siopadóireachta.'
+str_exit: 'Scoir'
+str_settings: 'Socruithe'
+str_download_data: 'Íoslódáil sonraí pearsanta'
+str_delete_data: 'Scrios sonraí pearsanta'
+str_back: 'Ar ais'
+str_language: 'Béarla'
+str_goto_beach: 'Téigh go dtí an Trá'
+str_at_beach: 'Tá tú ag an Trá.'
+str_goto_arcade: 'Téigh go dtí an Stuara'
+str_at_arcade: 'Tá tú ag an Stuara.'
+str_goto_catcafe: 'Téigh go dtí an Caifé Cat'
+str_at_catcafe: 'Tá tú ag an Caifé Cat.'
+str_system_language: 'Teanga Chórais'
+str_language_pick: 'Teanga:'
+str_no_location_twice: 'Ní féidir leat an suíomh céanna a chur faoi dhó i ndiaidh
+  a chéile!'
+str_report_user: Tuairiscigh úsáideoir
+str_report_user_hint: Tuairiscigh "%s"
+str_cancel: Ceal
+str_submit: Cuir isteach
+str_back_alley: Caolsráid ar ais
+str_back_alley_pay: Ceannaigh pas {playcoin}%d

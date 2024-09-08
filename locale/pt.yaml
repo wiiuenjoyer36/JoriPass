@@ -1,0 +1,40 @@
+str_loading: "Carregando    "
+str_libcurl_error: "Erro libCURL (%d): %s"
+str_libcurl_date_and_time: 'Certifique-se de que a data e o horário do seu sistema
+  estejam corretos!'
+str_httpstatus_error: 'Código de status HTTP %d'
+str_3ds_error: 'Erro de código 3DS %08lx'
+str_at_home: 'Você está em casa.'
+str_goto_train_station: 'Ir para a Estação de Trem'
+str_at_train_station: 'Você está na Estação de Trem.'
+str_goto_plaza: 'Ir para a Praça'
+str_at_plaza: 'Você está na Praça.'
+str_goto_mall: 'Ir para o Shopping'
+str_at_mall: 'Você está no Shopping.'
+str_exit: 'Sair'
+str_settings: 'Configurações'
+str_download_data: 'Baixar dados pessoais'
+str_delete_data: 'Deletar dados pessoais'
+str_back: 'Voltar'
+str_goto_beach: Ir para a Praia
+str_at_beach: Você está na Praia.
+str_goto_arcade: Ir para o Fliperama
+str_at_arcade: Você está no Fliperama.
+str_goto_catcafe: Ir para o Cat Café
+str_language: Português
+str_at_catcafe: Você está no Cat Café.
+str_system_language: Idioma do Console
+str_language_pick: 'Idioma:'
+str_no_location_twice: Você não pode entrar na mesma localização duas vezes seguidas!
+str_report_user: Denunciar um usuário
+str_report_user_hint: Denunciar "%s"
+str_cancel: Cancelar
+str_submit: Enviar
+str_back_alley: Beco
+str_back_alley_message: Vamos pegar mais alguns passes
+str_back_alley_pay: Compre um passe {playcoin}%d
+str_toggle_titles: Ativar/Desativar Jogos
+str_toggle_titles_on: (ON)
+str_toggle_titles_off: (OFF)
+str_check_inboxes: Verificar Inboxes
+str_toggle_titles_message: Aperte {a_button} para ativar ou desativar a troca de passes.

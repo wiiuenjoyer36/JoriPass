@@ -1,0 +1,40 @@
+str_loading: "Caricamento...    "
+str_libcurl_error: "Errore di libCURL (%d): %s"
+str_libcurl_date_and_time: 'Assicurati che la data e l''ora della tua console siano
+  impostate correttamente!'
+str_httpstatus_error: 'Codice stato HTTP %d'
+str_3ds_error: 'Codice errore 3DS %08lx'
+str_at_home: 'Sei a casa.'
+str_goto_train_station: 'Vai alla Stazione'
+str_at_train_station: 'Sei alla Stazione.'
+str_goto_plaza: 'Vai in Piazza'
+str_at_plaza: 'Sei in Piazza.'
+str_goto_mall: 'Vai al Centro Commerciale'
+str_at_mall: 'Sei al Centro Commerciale.'
+str_exit: 'Esci'
+str_settings: 'Impostazioni'
+str_download_data: 'Scarica dati personali'
+str_delete_data: 'Elimina dati personali'
+str_back: 'Indietro'
+str_language: 'Italiano'
+str_goto_beach: 'Vai in Spiaggia'
+str_at_beach: 'Sei in Spiaggia.'
+str_goto_arcade: 'Vai alla Sala Giochi'
+str_at_arcade: 'Sei alla Sala Giochi.'
+str_goto_catcafe: 'Vai al Bar dei Gatti'
+str_at_catcafe: 'Sei al Bar dei Gatti.'
+str_system_language: Lingua di sistema
+str_language_pick: 'Lingua:'
+str_no_location_twice: Non puoi entrare nello stesso luogo due volte di fila!
+str_report_user: Segnala un utente
+str_report_user_hint: Segnala "%s"
+str_cancel: Annulla
+str_submit: Invia
+str_back_alley: Vicolo
+str_back_alley_pay: Compra un pass {playcoin}%d
+str_back_alley_message: Cerca altri pass
+str_toggle_titles_message: Premi {a_button} per iniziare o smettere di scambiare pass.
+str_check_inboxes: Controlla la posta in arrivo
+str_toggle_titles_on: (ON)
+str_toggle_titles_off: (OFF)
+str_toggle_titles: Giochi

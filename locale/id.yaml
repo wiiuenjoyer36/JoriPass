@@ -1,0 +1,32 @@
+str_loading: "Loading    "
+str_libcurl_error: "Salah libCURL (%d): %s"
+str_libcurl_date_and_time: 'Pastikan tanggal dan jam di sistimnya benar!'
+str_httpstatus_error: 'Status kode HTTP %d'
+str_3ds_error: 'Kode salah 3DS %08lx'
+str_at_home: 'Kamu di rumah.'
+str_goto_train_station: 'Pergi ke Stasiun Kereta'
+str_at_train_station: 'Kamu di Stasiun Kereta.'
+str_goto_plaza: 'Pergi ke Plaza'
+str_at_plaza: 'Kamu di Plaza.'
+str_goto_mall: 'Pergi ke Mall'
+str_at_mall: 'Kamu di Mall.'
+str_exit: 'Keluar'
+str_settings: 'Pengaturan'
+str_download_data: 'Mengunduh data pribadi'
+str_delete_data: 'Hapus data pribadi'
+str_back: 'Kembali'
+str_language: 'Bahasa Indonesia'
+str_goto_beach: 'Pergi ke Pantai'
+str_at_beach: 'Kamu di Pantai.'
+str_goto_arcade: 'Pergi ke Arcade'
+str_at_arcade: 'Kamu di Arcade.'
+str_goto_catcafe: 'Pergi ke Kafe Kucing'
+str_at_catcafe: 'Kamu di Kafe Kucing.'
+str_system_language: 'Bahasa Sistem'
+str_language_pick: 'Bahasa:'
+str_no_location_twice: 'Kamu tidak boleh masuk ke tempat yang sama dua kali berturut-turut!'
+str_cancel: Batal
+str_submit: Lapor
+str_report_user: Lapor pengguna
+str_report_user_hint: Pelaku "%s"
+str_back_alley: Gang Kramat

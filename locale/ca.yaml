@@ -1,0 +1,40 @@
+str_loading: "Carregant    "
+str_libcurl_error: "Error libCURL (%d): %s"
+str_libcurl_date_and_time: 'Asseguri que l''hora i la data del sistema estan ajustades
+  correctament!'
+str_httpstatus_error: 'Codi d''estat HTTP %d'
+str_3ds_error: 'Codi d''error 3DS %08lx'
+str_at_home: 'Ets a casa.'
+str_goto_train_station: 'Vés a l''Estació de Tren'
+str_at_train_station: 'Ets a l''Estació de Tren.'
+str_goto_plaza: 'Vés a la Plaça'
+str_at_plaza: 'Ets a la Plaça.'
+str_goto_mall: 'Vés al Centre Comercial'
+str_at_mall: 'Ets al Centre Comercial.'
+str_exit: 'Surt'
+str_settings: 'Configuració'
+str_download_data: 'Descarregar dades personals'
+str_delete_data: 'Esborrar dades personals'
+str_back: 'Enrere'
+str_language: 'Català'
+str_goto_beach: 'Vés a la Platja'
+str_at_beach: 'Ets a la Platja.'
+str_goto_arcade: 'Vés al Saló Recreatiu'
+str_at_arcade: 'Ets al Saló Recreatiu.'
+str_goto_catcafe: 'Vés a Cafè de Gats'
+str_at_catcafe: 'Ets al Cafè de Gats.'
+str_system_language: 'Llengua del sistema'
+str_language_pick: 'Llengua:'
+str_no_location_twice: 'No pots anar al mateix lloc dues vegades seguides!'
+str_cancel: Cancel·lar
+str_report_user_hint: Denuncia "%s"
+str_submit: Enviar
+str_report_user: Denuncia un usuari
+str_back_alley_message: Afanyem alguns passis més
+str_back_alley_pay: Compra un passi {playcoin}%d
+str_back_alley: Carreró
+str_toggle_titles_on: (ENCÈS)
+str_toggle_titles_off: (APAGAT)
+str_toggle_titles: Activa o desactiva jocs
+str_check_inboxes: Comprova bústies d'entrada
+str_toggle_titles_message: Prem {a_button} per començar o parar l'intercanvi de passis.

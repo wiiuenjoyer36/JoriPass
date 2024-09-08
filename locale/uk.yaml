@@ -1,0 +1,40 @@
+str_loading: "Завантаження    "
+str_libcurl_error: "Помилка libCURL (%d): %s"
+str_libcurl_date_and_time: 'Переконайтеся, що на вашiй системi встановлено правильнi
+  дату та час!'
+str_httpstatus_error: 'Код статусу HTTP %d'
+str_3ds_error: 'Код помилки 3DS %08lx'
+str_at_home: 'Ви вдома.'
+str_goto_train_station: 'Пiти до вокзалу'
+str_at_train_station: 'Ви на вокзалi.'
+str_goto_plaza: 'Пiти на площу'
+str_at_plaza: 'Ви на площi.'
+str_goto_mall: 'Пiти в торговий центр'
+str_at_mall: 'Ви в торговому центрi.'
+str_exit: 'Вийти'
+str_settings: 'Налаштування'
+str_download_data: 'Скачати персональнi данi'
+str_delete_data: 'Видалити персональнi данi'
+str_back: 'Назад'
+str_language: 'Украïнська'
+str_goto_beach: 'Пiти на пляж'
+str_at_beach: 'Ви на пляжi.'
+str_goto_arcade: 'Пiти до iгрового залу'
+str_at_arcade: 'Ви в iгровому залi.'
+str_goto_catcafe: 'Пiти до котячоï кав''ярнi'
+str_at_catcafe: 'Ви в котячiй кав''ярнi.'
+str_system_language: Системна мова
+str_language_pick: 'Мова:'
+str_no_location_twice: Не можна вiдвiдувати одну й ту саму локацiю двiчi поспiль!
+str_report_user: Поскаржитися на користувача
+str_report_user_hint: Поскаржитися на "%s"
+str_cancel: Скасувати
+str_submit: Пiдтвердити
+str_back_alley: Провулок
+str_back_alley_message: Увiрвемо-но ще трохи "пасiв"
+str_back_alley_pay: Придбати "пас" {playcoin}%d
+str_check_inboxes: Перевiрити вхiднi данi
+str_toggle_titles: Перемкнути iгри
+str_toggle_titles_message: Натиснiть {a_button}, щоб почати або зупинити обмiн "пасами".
+str_toggle_titles_on: (УВIМКНЕНО)
+str_toggle_titles_off: (ВИМКНЕНО)

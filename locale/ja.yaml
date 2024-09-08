@@ -1,0 +1,39 @@
+str_loading: "読み込み中    "
+str_libcurl_error: "libCURL エラー (%d): %s"
+str_libcurl_date_and_time: '本体設定から日付と時刻が正しく設定されているか確認してください！'
+str_httpstatus_error: 'HTTP ステータスコード %d'
+str_3ds_error: '3DS エラーコード %08lx'
+str_at_home: 'あなたは家にいます。'
+str_goto_train_station: '駅へ出かける'
+str_at_train_station: '駅に滞在中。'
+str_goto_plaza: '広場へ出かける'
+str_at_plaza: '広場に滞在中。'
+str_goto_mall: 'ショッピングモールへ出かける'
+str_at_mall: 'ショッピングモールに滞在中。'
+str_exit: '終了する'
+str_settings: '設定'
+str_download_data: 'サーバーから自分のデータをダウンロードする'
+str_delete_data: 'サーバーから自分のデータを消去する'
+str_back: '戻る'
+str_language: '日本語'
+str_goto_beach: 'ビーチへ出かける'
+str_at_beach: 'ビーチに滞在中。'
+str_goto_arcade: 'ゲームセンターへ出かける'
+str_at_arcade: 'ゲームセンターに滞在中。'
+str_goto_catcafe: '猫カフェへ出かける'
+str_at_catcafe: '猫カフェに滞在中。'
+str_system_language: システム言語
+str_language_pick: '言語:'
+str_no_location_twice: 前回と同じ場所へ連続で出かけることは出来ません！
+str_cancel: キャンセル
+str_report_user: ユーザーを通報する
+str_report_user_hint: '"%s" を通報する'
+str_submit: 送信する
+str_back_alley_message: 今すぐすれちがいを購入する
+str_back_alley_pay: パスを購入する {playcoin}%d
+str_back_alley: 路地裏
+str_toggle_titles: ゲームを切り替える
+str_check_inboxes: 受信トレイをチェックする
+str_toggle_titles_message: '{a_button}を押して、パスの交換を開始または停止する。'
+str_toggle_titles_on: (オン)
+str_toggle_titles_off: (オフ)

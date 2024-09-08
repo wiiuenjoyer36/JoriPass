@@ -1,0 +1,40 @@
+str_loading: "Загрузка    "
+str_libcurl_error: "Ошибка libCURL (%d): %s"
+str_libcurl_date_and_time: 'Убедитесь, что на вашей системе установлены правильные
+  дата и время!'
+str_httpstatus_error: 'Код статуса HTTP %d'
+str_3ds_error: 'Код ошибки 3DS %08lx'
+str_at_home: 'Вы дома.'
+str_goto_train_station: 'Пойти на вокзал'
+str_at_train_station: 'Вы на вокзале.'
+str_goto_plaza: 'Пойти на площадь'
+str_at_plaza: 'Вы на площади.'
+str_goto_mall: 'Пойти в торговый центр'
+str_at_mall: 'Вы в торговом центре.'
+str_exit: 'Выйти'
+str_settings: 'Настройки'
+str_download_data: 'Скачать персональные данные'
+str_delete_data: 'Удалить персональные данные'
+str_back: 'Назад'
+str_language: 'Русский'
+str_goto_beach: 'Пойти на пляж'
+str_at_beach: 'Вы на пляже.'
+str_goto_arcade: 'Пойти в игровой зал'
+str_at_arcade: 'Вы в игровом зале.'
+str_goto_catcafe: 'Пойти в котокафе'
+str_at_catcafe: 'Вы в котокафе.'
+str_system_language: Язык системы
+str_language_pick: 'Язык:'
+str_no_location_twice: Нельзя посещать одну и ту же локацию дважды подряд!
+str_report_user: Пожаловаться на пользователя
+str_report_user_hint: Пожаловаться на "%s"
+str_cancel: Отменить
+str_submit: Подтвердить
+str_back_alley_message: Урвём-ка ещё чуток "пассов"
+str_back_alley: Переулок
+str_back_alley_pay: Купить "пасс" {playcoin}%d
+str_check_inboxes: Проверить входящие данные
+str_toggle_titles: Переключить игры
+str_toggle_titles_on: (ВКЛЮЧЕНО)
+str_toggle_titles_off: (ВЫКЛЮЧЕНО)
+str_toggle_titles_message: Нажмите {a_button}, чтобы начать или остановить обмен "пассами".

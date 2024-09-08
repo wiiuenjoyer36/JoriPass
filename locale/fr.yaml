@@ -1,0 +1,41 @@
+str_loading: "Chargement    "
+str_libcurl_error: "Erreur libCURL (%d) : %s"
+str_libcurl_date_and_time: 'Assurez-vous que la date et l''heure soient bien réglées !'
+str_httpstatus_error: 'Code de statut HTTP %d'
+str_3ds_error: 'Code d''erreur 3DS %08lx'
+str_at_home: 'Vous êtes chez vous.'
+str_goto_train_station: 'Aller à la Gare'
+str_at_train_station: 'Vous êtes à la Gare.'
+str_goto_plaza: 'Aller à la Place'
+str_at_plaza: 'Vous êtes à la Place.'
+str_goto_mall: 'Aller au Centre Commercial'
+str_at_mall: 'Vous êtes au Centre Commercial.'
+str_exit: 'Quitter'
+str_settings: 'Paramètres'
+str_download_data: 'Téléch. données pers.'
+str_delete_data: 'Effacer données pers.'
+str_back: 'Retour'
+str_goto_beach: Aller à la Plage
+str_at_beach: Vous êtes à la Plage.
+str_goto_arcade: Aller à la Salle d'Arcade
+str_at_arcade: Vous êtes à la Salle d'Arcade.
+str_goto_catcafe: Aller au Café Félin
+str_at_catcafe: Vous êtes au Café Félin.
+str_language: Français
+str_system_language: Langue Système
+str_language_pick: 'Langue :'
+str_no_location_twice: Vous ne pouvez pas choisir le même lieu deux fois d'affilée
+  !
+str_report_user: Signaler un utilisateur
+str_report_user_hint: Signaler "%s"
+str_cancel: Annuler
+str_submit: Soumettre
+str_back_alley_message: Allons obtenir plus de rencontre streetpass
+str_back_alley: Ruelle
+str_back_alley_pay: Acheter un pass {playcoin}%d
+str_toggle_titles: Sélectionner les Jeux
+str_toggle_titles_on: (ON)
+str_toggle_titles_off: (OFF)
+str_toggle_titles_message: Appuyez sur {a_button} pour Activer/Désactiver les échanges
+  StreetPass.
+str_check_inboxes: Boîte de Réception

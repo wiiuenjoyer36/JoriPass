@@ -1,0 +1,35 @@
+str_loading: "Laden    "
+str_libcurl_error: "libCURL fout (%d): %s"
+str_libcurl_date_and_time: 'Zorg ervoor dat de datum en tijd van je systeem correct
+  zijn!'
+str_httpstatus_error: 'HTTP statuscode %d'
+str_3ds_error: '3DS foutcode %08lx'
+str_at_home: 'Je bent thuis.'
+str_goto_train_station: 'Ga naar het Treinstation'
+str_at_train_station: 'Je bent op het Treinstation.'
+str_goto_plaza: 'Ga naar het Park'
+str_at_plaza: 'Je bent in het Park.'
+str_goto_mall: 'Ga naar het Winkelcentrum'
+str_at_mall: 'Je bent in het Winkelcentrum.'
+str_exit: 'Sluiten'
+str_settings: 'Instellingen'
+str_download_data: 'Download persoonlijke gegevens'
+str_delete_data: 'Verwijder persoonlijke gegevens'
+str_back: 'Terug'
+str_language: 'Nederlands'
+str_goto_beach: 'Ga naar het Strand'
+str_at_beach: 'Je bent op het Strand.'
+str_goto_arcade: 'Ga naar de Arcadehal'
+str_at_arcade: 'Je bent in de Arcadehal.'
+str_goto_catcafe: 'Ga naar het Kattencafé'
+str_at_catcafe: 'Je bent in het Kattencafé.'
+str_system_language: 'Systeemtaal'
+str_language_pick: 'Taal:'
+str_no_location_twice: Je kan niet twee keer achter elkaar naar dezelfde locatie gaan!
+str_report_user: Gebruiker rapporteren
+str_report_user_hint: Rapporteer "%s"
+str_cancel: Annuleer
+str_submit: Verzenden
+str_back_alley: Steegje
+str_back_alley_message: Laten we nog wat passen opschudden
+str_back_alley_pay: Koop een pas {playcoin}%d

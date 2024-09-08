@@ -1,0 +1,39 @@
+str_loading: "Cargando    "
+str_libcurl_error: "Error de libCURL (%d): %s"
+str_libcurl_date_and_time: '¡Asegúrate de que la fecha y hora del sistema sean correctas!'
+str_httpstatus_error: 'Código de estado HTTP %d'
+str_3ds_error: 'Código de error de 3DS %08lx'
+str_at_home: 'Estás en casa.'
+str_goto_train_station: 'Ir a la Estación de Tren'
+str_at_train_station: 'Estás en la Estación de Tren.'
+str_goto_plaza: 'Ir a la Plaza'
+str_at_plaza: 'Estás en la Plaza.'
+str_goto_mall: 'Ir al Centro Comercial'
+str_at_mall: 'Estás en el Centro Comercial.'
+str_exit: 'Salir'
+str_settings: 'Ajustes'
+str_download_data: 'Descargar datos personales'
+str_delete_data: 'Borrar datos personales'
+str_back: 'Atrás'
+str_language: 'Español'
+str_goto_beach: 'Ir a la Playa'
+str_at_beach: 'Estás en la Playa.'
+str_goto_arcade: 'Ir al Salón Recreativo'
+str_at_arcade: 'Estás en el Salón Recreativo.'
+str_goto_catcafe: 'Ir al Café de Gatos'
+str_at_catcafe: 'Estás en el Café de Gatos.'
+str_system_language: Idioma del Sistema
+str_language_pick: 'Idioma:'
+str_no_location_twice: ¡No puedes entrar dos veces seguidas en el mismo sitio!
+str_report_user: Denunciar a un usuario
+str_report_user_hint: Denunciar a "%s"
+str_cancel: Cancelar
+str_submit: Enviar
+str_back_alley: Callejón
+str_back_alley_pay: Compra un pase por {playcoin}%d
+str_back_alley_message: Consigamos más pases
+str_check_inboxes: Comprobar buzones de entrada
+str_toggle_titles: Activar o desactivar juegos
+str_toggle_titles_on: (ENCENDIDO)
+str_toggle_titles_off: (APAGADO)
+str_toggle_titles_message: Pulsa {a_button} para comenzar o parar la búsqueda de pases.

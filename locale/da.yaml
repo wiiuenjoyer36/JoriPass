@@ -1,0 +1,35 @@
+str_loading: "Indlæser    "
+str_libcurl_error: "libCURL fejl (%d): %s"
+str_libcurl_date_and_time: 'Sikr dig at dit systems dato og klokkeslæt er indstillet
+  korrekt!'
+str_httpstatus_error: 'HTTP status kode %d'
+str_3ds_error: '3DS fejl kode %08lx'
+str_at_home: 'Du er hjemme.'
+str_goto_train_station: 'Tag til Togstationen'
+str_at_train_station: 'Du er på Togstationen.'
+str_goto_plaza: 'Gå ned på Torvet'
+str_at_plaza: 'Du er på Torvet.'
+str_goto_mall: 'Tag i Centeret'
+str_at_mall: 'Du er i Centeret.'
+str_exit: 'Luk programmet'
+str_settings: 'Indstillinger'
+str_download_data: 'Download personlige data'
+str_delete_data: 'Slet personlige data'
+str_back: 'Tilbage'
+str_language: 'Dansk'
+str_goto_beach: 'Tag på Stranden'
+str_at_beach: 'Du er på Stranden.'
+str_goto_arcade: 'Tag i Arkaden'
+str_at_arcade: 'Du er i Arkaden.'
+str_goto_catcafe: 'Tag på Kattecaféen'
+str_at_catcafe: 'Du er i Kattecaféen.'
+str_system_language: 'Systemsprog'
+str_language_pick: 'Sprog:'
+str_no_location_twice: 'Du kan ikke tage til den samme destination to gange i træk!'
+str_report_user: Indrapportér en bruger
+str_report_user_hint: Rapport "%s"
+str_cancel: Annuller
+str_submit: Indsend
+str_back_alley: Baggyde
+str_back_alley_message: Lad os fuske nogle flere pas
+str_back_alley_pay: Køb et pass {playcoin}%d

@@ -1,0 +1,34 @@
+str_loading: "載入中    "
+str_libcurl_error: "libCURL 錯誤 (%d): %s"
+str_libcurl_date_and_time: '確保您的系統日期和時間正確設置！'
+str_httpstatus_error: 'HTTP 狀態代碼 %d'
+str_3ds_error: '3DS 錯誤代碼 %08lx'
+str_at_home: '您在家。'
+str_goto_train_station: '去火車站'
+str_at_train_station: '您在火車站.'
+str_goto_plaza: '去廣場'
+str_at_plaza: '您在廣場.'
+str_goto_mall: '去購物廣場'
+str_at_mall: '您在廣場.'
+str_exit: '退出'
+str_settings: '設定'
+str_download_data: '下載個人資料'
+str_delete_data: '刪除個人資料'
+str_back: '返回'
+str_language: '繁體中文'
+str_goto_beach: '去海灘'
+str_at_beach: '您在海灘.'
+str_goto_arcade: '去街機遊戲廳'
+str_at_arcade: '您在街機遊戲廳.'
+str_goto_catcafe: '去貓咖啡'
+str_at_catcafe: '您在貓咖啡.'
+str_system_language: '系統語言'
+str_language_pick: '語言:'
+str_no_location_twice: '您不能連續兩次選擇同一位置！'
+str_back_alley: 後巷
+str_back_alley_message: 讓我們再獲得更多通行證
+str_back_alley_pay: 購買一個通行證 {playcoin}%d
+str_report_user: 檢舉一位用戶
+str_report_user_hint: 檢舉 "%s"
+str_cancel: 取消
+str_submit: 提交

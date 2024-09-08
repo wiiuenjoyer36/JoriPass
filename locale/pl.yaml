@@ -1,0 +1,34 @@
+str_loading: "Ładowanie    "
+str_libcurl_error: "Błąd libCURL (%d): %s"
+str_libcurl_date_and_time: 'Upewnij się, że data i czas systemowy jest ustawiony poprawnie!'
+str_httpstatus_error: 'Błąd HTTP o kodzie %d'
+str_3ds_error: 'Błąd 3DS o kodzie %08lx'
+str_at_home: 'Jesteś w domu.'
+str_goto_train_station: 'Idź na Stacje Kolejową'
+str_at_train_station: 'Jesteś na Stacji Kolejowej.'
+str_goto_plaza: 'Idź na Rynek'
+str_at_plaza: 'Jesteś na Rynku.'
+str_goto_mall: 'Idź do Centrum Handlowego'
+str_at_mall: 'Jesteś w Centrum Handlowym.'
+str_exit: 'Wyjście'
+str_settings: 'Ustawienia'
+str_download_data: 'Pobierz swoje dane'
+str_delete_data: 'Usuń swoje dane'
+str_back: 'Cofnij'
+str_language: 'Polski'
+str_goto_beach: 'Idź na Plażę'
+str_at_beach: 'Jesteś na Plaży.'
+str_goto_arcade: 'Idź do Salonu gier'
+str_at_arcade: 'Jesteś w Salonie Gier.'
+str_goto_catcafe: 'Idź do Kociej Kawiarni'
+str_at_catcafe: 'Jesteś w Kociej Kawiarni.'
+str_system_language: Język Systemu
+str_language_pick: 'Język:'
+str_no_location_twice: Nie możesz wejść do tej samej lokalizacji dwa razy pod rząd!
+str_back_alley: Tylna Uliczka
+str_back_alley_message: Załatwmy jeszcze kilka spotkań
+str_back_alley_pay: Kup spotkanie {playcoin}%d
+str_report_user: Zgłoś użytkownika
+str_report_user_hint: Zgłoś "%s"
+str_cancel: Anuluj
+str_submit: Wyślij

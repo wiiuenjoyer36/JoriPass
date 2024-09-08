@@ -1,0 +1,39 @@
+str_loading: "                                "
+str_libcurl_error: "libCURL error (%d): %s"
+str_libcurl_date_and_time: set your time and date correctly dumbass
+str_httpstatus_error: HTTP status code %d
+str_3ds_error: 3DS error code %08lx
+str_at_home: JoriPass
+str_goto_train_station: Netpal's house
+str_at_train_station: You are at Netpal's house.
+str_goto_plaza: Brest, France
+str_at_plaza: You are in Brest, France.
+str_goto_mall: Wara Wara Plaza
+str_at_mall: You are in the Wara Wara Plaza.
+str_exit: Press START to exit
+str_settings: Settings
+str_download_data: Download personal data
+str_delete_data: Yeet personal data
+str_back: Back
+str_language: English
+str_goto_beach: Fox den
+str_at_beach: You are in the Fox den.
+str_goto_arcade: Jori's catbed
+str_at_arcade: You are on Jori's catbed.
+str_goto_catcafe: New Mexico
+str_at_catcafe: You are in New Mexico.
+str_system_language: System Language
+str_language_pick: 'Language:'
+str_no_location_twice: You can enter the same location twice in a row!
+str_report_user: Report a user
+str_report_user_hint: Report "%s"
+str_cancel: Cancel
+str_submit: Submit
+str_back_alley: Free Alley
+str_back_alley_message: Free & unlimited passes, you're welcome -Jori
+str_back_alley_pay: "Get a pass (free)"
+str_check_inboxes: Check Inboxes
+str_toggle_titles: Toggle Games
+str_toggle_titles_message: "Press {a_button} enable or disable games."
+str_toggle_titles_on: "(On)"
+str_toggle_titles_off: "(Off)"

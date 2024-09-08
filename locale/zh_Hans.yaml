@@ -1,0 +1,39 @@
+str_loading: "正在加载    "
+str_libcurl_error: "libCURL 错误 (%d): %s"
+str_libcurl_date_and_time: '请确保你的系统的日期和时间是正确的！'
+str_httpstatus_error: 'HTTP 状态码 %d'
+str_3ds_error: '3DS 错误码 %08lx'
+str_at_home: '你正在家中。'
+str_goto_train_station: '去车站'
+str_at_train_station: '你正在车站里。'
+str_goto_plaza: '去广场'
+str_at_plaza: '你正在广场上。'
+str_goto_mall: '去商场'
+str_at_mall: '你正在商场里。'
+str_exit: '退出'
+str_settings: '设定'
+str_download_data: '下载个人资料'
+str_delete_data: '删除个人资料'
+str_back: '返回'
+str_language: '简体中文'
+str_goto_beach: '去海边'
+str_at_beach: '你正在海边。'
+str_goto_arcade: '去街机游戏厅'
+str_at_arcade: '你正在街机游戏厅里。'
+str_goto_catcafe: '去猫咪咖啡馆'
+str_at_catcafe: '你正在猫咪咖啡馆里。'
+str_system_language: '系统语言'
+str_language_pick: '语言：'
+str_no_location_twice: '你不能连续两次选择同样的地方！'
+str_report_user_hint: 举报 "%s"
+str_report_user: 举报用户
+str_cancel: 取消
+str_submit: 提交
+str_back_alley_pay: 购买擦肩信息 {playcoin}%d
+str_back_alley: 后巷
+str_back_alley_message: 让我们搞点新的擦肩信息吧
+str_check_inboxes: 检查擦肩收件箱
+str_toggle_titles: 切换擦肩游戏
+str_toggle_titles_on: (启用)
+str_toggle_titles_off: (禁用)
+str_toggle_titles_message: 按 {a_button} 切换是否交换擦肩信息。
