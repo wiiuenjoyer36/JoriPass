@@ -1,4 +1,6 @@
-# JoriPass: a new way to experience NetPass!
+# THIS IS A MEME FORK OF [NETPASS](https://gitlab.com/3ds-netpass/netpass). PLEASE USE THE [OFFICIAL NETPASS APP](https://gitlab.com/3ds-netpass/netpass) IF YOU HAVE ANY PROBLEMS WITH JORIPASS
+
+## JoriPass: a new way to experience NetPass!
 
 Introducing JoriPass:
 
