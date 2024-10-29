@@ -19,17 +19,30 @@
 #include <3ds.h>
 #include <citro2d.h>
 #include <stdlib.h>
+#include <stdio.h> // from soundexample
+#include <string.h> // from soundexample
 #include "scene.h"
 #include "api.h"
 #include "cecd.h"
 #include "curl-handler.h"
 #include "config.h"
 
+// stuff from soundexample
+u8* buffer;
+u32 size;
+
+// more soundexample stuff
+static void audio_load(const char *audio);
+static void audio_stop(void);
+
 int main() {
 	gfxInitDefault();
 	cfguInit();
 	amInit();
 	nsInit();
+	srvInit(); // from soundexample
+	hidInit(); // from soundexample
+	bool stop = 0 // from soundexample
 	aptInit();
 	consoleInit(GFX_BOTTOM, NULL);
 	printf("    #              ###                 \n    #   ##  ###  # #  #   #    ##   ##\n    #  #  # #  # # #  #  # #  #    #   \n    #  #  # #  # # ###  #   #  ##   ## \n #  #  #  # ###  # #    #####    #    #\n #  #  #  # # #  # #    #   # #  # #  #\n  ##    ##  #  # # #    #   #  ##   ## \nStarting JoriPass v%d.%d.%d\n", _VERSION_MAJOR_, _VERSION_MINOR_, _VERSION_MICRO_);
@@ -45,7 +58,9 @@ int main() {
 	srand(time(NULL));
 
 	configInit(); // must be after cecdInit()
-	
+
+	csndInit(); // start audio lib, from soundexample
+	u32 kDown; // from soundexample
 	// mount sharedextdata_b so that we can read it later, for e.g. playcoins
 	{
 		u32 extdata_lowpathdata[3];
@@ -105,6 +120,8 @@ int main() {
 
 	scene->init(scene);
 
+audio_load("audio/original_raw.bin");
+
 	while (aptMainLoop()) {
 		Scene* new_scene = processScene(scene);
 		if (!new_scene) break;
@@ -135,4 +152,24 @@ int main() {
 	cfguExit();
 	gfxExit();
 	return 0;
+}
+
+void audio_load(const char *audio){
+
+	FILE *file = fopen(audio, "rb");
+	fseek(file, 0, SEEK_END);
+	off_t size = ftell(file);
+	fseek(file, 0, SEEK_SET);
+	buffer = linearAlloc(size);
+	off_t bytesRead = fread(buffer, 1, size, file);
+	fclose(file);
+	csndPlaySound(8, SOUND_FORMAT_16BIT | SOUND_REPEAT, 48000, 1, 0, buffer, buffer, size);
+	linearFree(buffer);
+}
+void audio_stop(void){
+	csndExecCmds(true);
+	CSND_SetPlayState(0x8, 0);
+	memset(buffer, 0, size);
+	GSPGPU_FlushDataCache(buffer, size);
+	linearFree(buffer);
 }
