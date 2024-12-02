@@ -1,4 +1,9 @@
-# THIS IS A MEME FORK OF [NETPASS](https://gitlab.com/3ds-netpass/netpass). PLEASE USE THE [OFFICIAL NETPASS APP](https://gitlab.com/3ds-netpass/netpass) IF YOU HAVE ANY PROBLEMS WITH JORIPASS
+# THIS PROJECT IS PAUSED!!!
+No new releases are expected for a little while. If there is eventually another release, it will NOT include the full "Free Alley" feature. 
+
+***Back Alley Passes will still be free in regards to Play Coins but they will NOT be unlimited. Limit of 6.***
+
+## THIS IS A MEME FORK OF [NETPASS](https://gitlab.com/3ds-netpass/netpass). PLEASE USE THE [OFFICIAL NETPASS APP](https://gitlab.com/3ds-netpass/netpass) IF YOU HAVE ANY PROBLEMS WITH JORIPASS
 
 ## JoriPass: a new way to experience NetPass!
 
